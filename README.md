@@ -1,4 +1,7 @@
 # improc
 My old image processing lab works
 
-[Introduction](introduction.ipynb)
+- [Pixelwise modification](introduction.ipynb)
+- [Laplacian filter](laplacian.ipynb)
+- [Masks & Filters](masks-filters.ipynb)
+- [Histogram Equilization](histogram_equilization.ipynb)
